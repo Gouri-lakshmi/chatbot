@@ -1,0 +1,83 @@
+.container{
+    width: 325px;
+    height: 410px;
+   border: ridge;
+   border-radius: 10px;
+   border-color: rgb(230, 224, 224);
+   margin-top: 238px;
+   margin-left: 1171px;
+}
+.container-fluid{
+    margin-right: 50px; 
+}
+img{
+    width: 30px;  
+}
+h6{
+    margin-right: -80px;
+}
+.fa-times{
+    margin-left:9px ;
+}
+.fa-heart{
+    margin-left: 120px;
+}
+.fa-comment-dots{
+    margin-left: 9px;
+}
+.fa-volume-mute{
+    margin-left: 9px;
+}
+.fa-book-open{
+    margin-left: 9px;
+}
+.fa-redo{
+    margin-left: 9px;
+}
+.text{
+     border: solid;
+     border-color:white;
+     width: 40px;
+     height: 46px;
+     margin-left: 261px;
+     text-align: center;
+     border-radius: 10px;
+     color: white;
+     background-color: rgb(68, 169, 209);
+}
+.text1{
+    border: solid;
+    border-color:white;
+    margin-right: 20px;
+    width: 132px;
+    height: 46px;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    background-color: rgb(236, 234, 230);
+}
+.icon{
+    width: 40px;
+    height: 30px;
+    border: solid;
+    border-color:rgb(250, 239, 239);
+    background-color:  rgba(231, 233, 235, 0.89);
+    margin-top: 139px;
+    margin-left: 270px;
+    border-radius: 10px;
+    color: rgb(148, 147, 147);
+   
+}
+.i{
+    width: 22px;
+    height: 18px;
+    margin-left: 110px;
+   
+}
+.row{
+    color: rgb(201, 193, 193);
+   
+}
+a{
+    margin-top: 333px;
+}
